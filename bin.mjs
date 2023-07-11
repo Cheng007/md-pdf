@@ -11,5 +11,3 @@ inquirer.prompt({
   message: 'Your name', // 提示信息
   default: 'default name' // 默认值
 }).then(answer => console.log(answer))
-
-console.log(11122212)
